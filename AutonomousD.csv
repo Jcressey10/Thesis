@@ -1,0 +1,251 @@
+﻿Date,Address,Company,Car Type,"Autonomous engaged (1 = yes, 0 = no)",Time,Weather,Road conditions,Lighting,Unusual Conditions,Stopped/Moving,Other Vehicle,Stopped/moving (Car 2),Damage,Significance,Injury,Expanation,error
+5/13/18,"Franklin St and Vallejo St, San Francisco, San Francisco, CA, 94123",Cruise,Chevrolet Bolt 2017,1,0:15,Clear,Dry,Dark-Street lights,No,stopped,,moving,moderate,human made aggressive move clipped av,,sideswipe,non av
+6/26/19,"10th Ave and California St, San Francisco, San Francisco, CA, 94118",Cruise,Chevrolet Bolt 2020,1,0:36,Clear,Dry,Dark-Street lights,No,moving,,moving,minor,human unable to react/anticipate av,,rear-end,non av
+10/17/19,"Hyde St and Sutter St, San Francisco, San Francisco, CA, 94109",Cruise,Chevrolet Bolt 2020,1,1:05,Fog,Wet,Dark-Street lights,No,stopped,,moving,minor,human made aggressive move clipped av,,rear-end,non av
+3/8/19,"16th St and Guerrero St, San Francisco, San Francisco, CA, 94103",Cruise,Chevrolet Bolt 2019,1,1:29,Clear,Dry,Dark-Street lights,No,moving,,moving,minor,human made aggressive move clipped av,,rear-end,non av
+3/24/18,"Sutter St and Grant St, San Francisco, San Francisco, CA, 94108",Cruise,Chevrolet Bolt 2017,1,1:54,,,,,moving,,moving,minor,human unable to react/anticipate av,,rear-end,non av
+10/7/17,"14th St and Valencia St, San Francisco, San Francisco, CA, 94103",Cruise,Chevrolet Bolt 2017,1,2:35,,,,,moving,,moving,none,human unable to react/anticipate av,,rear-end,non av
+3/23/19,"Leavenworth St and Eddy St, San Francisco, San Francisco, CA, 94109",Cruise,Chevrolet Bolt 2019,1,5:28,Clear,Dry,Dark-Street lights,No,moving,,moving,minor,human unable to react/anticipate av,,rear-end,non av
+2/14/19,"Gough St and Fell St, San Francisco, San Francisco, CA, 94102",Cruise,Chevrolet Bolt 2019,1,5:30,Raining,Wet,Dark-Street lights,No,moving,,moving,minor,human unable to react/anticipate av,,rear-end,non av
+2/27/19,"Gough St and Rose St, San Francisco, San Francisco, CA, 94102",Cruise,Chevrolet Bolt 2019,1,6:04,Clear,Dry,Dark-Street lights,No,moving,,moving,minor,human error,,rear-end,non av
+5/15/19,"Shoreline Blvd and El Camino Real, Mountain View, Santa Clara, CA, 94041",Waymo,Chrysler Pacifica 2017,1,6:08,Cloudy,Dry,Daylight,No,stopped,,moving,minor,human unable to react/anticipate av,,rear-end,non av
+11/29/18,"Middlefield Rd and Oregon Expwy, Palo Alto, Santa Clara, CA, 94301",Waymo,Chrysler Pacifica 2017,1,6:33,Clear,Wet,Dawn,No,stopped,,moving,minor,human made aggressive move clipped av,,sideswipe,non av
+2/26/19,"Miramonte Ave and Covington Rd, Los Altos, Santa Clara, CA, 94024",Waymo,Chrysler Pacifica 2017,1,6:56,Cloudy,Wet,Dawn,No,stopped,,moving,major,human unable to react/anticipate av,,rear-end,non av
+5/22/18,"Powell St and Jackson St, San Francisco, San Francisco, CA, 94133",Cruise,Chevrolet Bolt 2017,1,7:27,Cloudy,Dry,Daylight,No,moving,,moving,minor,human unable to react/anticipate av,,rear-end,non av
+7/5/18,"Hayes St and Fillmore St, San Francisco, San Francisco, CA, 94117",Cruise,Chevrolet Bolt 2017,1,7:35,Clear,Dry,Daylight,No,moving,,moving,moderate,human unable to react/anticipate av,,rear-end,non av
+7/8/18,"Sutter St and Market St, San Francisco, San Francisco, CA, 94104",Cruise,Chevrolet Bolt 2017,1,7:35,Clear,Dry,Daylight,No,stopped,,N/A,minor,drunk pedestrian stand on hood of car,,other,non av
+10/12/17,"Bush St and Montgomery St, San Francisco, San Francisco, CA, 94104",Cruise,Chevrolet Bolt 2017,1,7:40,,,,,moving,,moving,minor,human unable to react/anticipate av,,rear-end,non av
+10/28/19,"Whisman Station Dr and Central Expway, Mountain View, Santa Clara, CA, 94043",Waymo,Chrysler Pacifica 2017,1,7:43,Clear,Dry,Dawn,No,stopped,,moving,minor,human unable to react/anticipate av,,rear-end,non av
+10/16/19,"Distel Dr and El Camino Real, Mountain View, Santa Clara, CA, 94022",Waymo,Chrysler Pacifica 2017,1,7:45,Clear,Dry,Daylight,No,stopped,,moving,minor,human unable to react/anticipate av,,rear-end,non av
+8/9/19,"Alma St and Oregon Expwy, Palo Alto, Santa Clara, CA, 94301",Waymo,Chrysler Pacifica 2017,1,7:45,Clear,Dry,Daylight,No,moving,,moving,minor,human unable to react/anticipate av,,rear-end,non av
+8/12/19,"S Rengstroff Ave and Crisanto Ave, Mountain View, Santa Clara, CA, 94040",Waymo,Chrysler Pacifica 2017,1,8:15,Clear,Dry,Daylight,No,moving,,moving,minor,human unable to react/anticipate av,,rear-end,non av
+8/20/18,"Gretel Lane and Barbara Ave, Mountain View, Santa Clara, 94040",Waymo,Chrysler Pacifica 2017,1,8:18,Clear,Dry,Daylight,No,stopped,,moving,minor,human unable to react/anticipate av,,rear-end,non av
+8/14/18,"Ellis St and Pierce St, San Francisco, San Francisco, CA, 94115",Cruise,Chevrolet Bolt 2017,1,8:23,Fog,Dry,Daylight,No,moving,,moving,minor,human error,,sideswipe,non av
+2/16/17,"1120 Golden Gate, San Francisco, San Francisco, CA, 94115",Cruise,Chevrolet Bolt 2017,1,8:38,,,,,moving,,moving,minor,human unable to react/anticipate av,,rear-end,non av
+6/4/15,"California Ave and Rengstroff Ave, Mountain View, Santa Clara, CA, 94040",Waymo,Lexus ,1,8:54,,,,,stopped,,moving,none,,,rear-end,non av
+5/8/18,"Franklin St and Bay St, San Francisco, San Francisco, CA, 94123",Cruise,Chevrolet Bolt 2019,1,8:55,Cloudy,Dry,Daylight,No,stopped,,moving,minor,human made aggressive move clipped av,,sideswipe,non av
+6/8/19,"Clay St and Van Ness Ave, San Francisco, San Francisco, CA, 94109",Cruise,Chevrolet Bolt 2019,1,9:02,Clear,Dry,Daylight,Construction Zone,moving,,moving,minor,human error,,rear-end,non av
+2/6/19,"Central Expwy and Shoreline Blvd, Mountain View, Santa Clara, CA, 94043",Waymo,Chrysler Pacifica 2017,1,9:08,Cloudy,Dry,Daylight,No,stopped,,moving,minor,human unable to react/anticipate av,,rear-end,non av
+12/8/19,"30th Ave and California St, San Francisco, San Francisco, CA, 94121",Cruise,Chevrolet Bolt 2020,1,9:14,Clear,Dry,Daylight,No,stopped,,moving,minor,human unable to react/anticipate av,,rear-end,non av
+10/20/17,"Noe St and Henry St, San Francisco, San Francisco, CA, 94114",Cruise,Chevrolet Bolt 2017,1,9:16,,,,,moving,,moving,minor,human made aggressive move clipped av,,sideswipe,non av
+12/7/17,"Oak St and Fillmore St, San Francisco, San Francisco, CA, 94117",Cruise,Chevrolet Bolt 2017,1,9:34,,,,,moving,,moving,minor,human made aggressive move clipped av,,sideswipe,non av
+8/20/15,"Shoreline Blvd and High School Way, Mountain View, Santa Clara, CA, 94040",Waymo,Lexus,1,9:36,,,,,moving,,moving,moderate,human unable to react/anticipate av,,rear-end,non av
+8/7/18,"Gough St and Fell St, San Francisco, San Francisco, CA, 94102",Cruise,Chevrolet Bolt 2017,1,9:36,Clear,Dry,Daylight,No,moving,,moving,minor,human error,,sideswipe,non av
+6/11/18,"Bryant St and 11th St, San Francisco, San Francisco, CA, 94103",Cruise,Chevrolet Bolt 2017,1,9:41,Clear,Dry,Daylight,No,moving,,moving,minor,human unable to react/anticipate av,,rear-end,non av
+1/18/18,"Pacific Ave and Sansome St, San Francisco, San Francisco, CA, 94111",Zoox,Toyota Highlander 2016,1,9:43,,,,,stopped,,moving,minor,human unable to react/anticipate av,,rear-end,non av
+7/2/19,"Steiner St and Bush St, San Francisco, San Francisco, CA, 94115",Cruise,Chevrolet Bolt 2020,1,9:47,Clear,Dry,Daylight,No,stopped,,moving,minor,human unable to react/anticipate av,,rear-end,non av
+8/9/19,"N Shorline Blvd and W Middlefield Rd, Mountain View, Santa Clara, CA 94043",Waymo,Chrysler Pacifica 2017,1,9:56,Clear,Dry,Daylight,No,stopped,,moving,minor,human unable to react/anticipate av,,broadside,non av
+12/1/18,"Cyril Magnin St and Ellis St, San Francisco, San Francisco, CA, 94102",Cruise,Chevrolet Bolt 2019,1,9:58,Raining,Wet,Daylight,No,moving,,moving,minor,human unable to react/anticipate av,,rear-end,non av
+11/9/19,"Howard St and 11th St, San Francisco, San Francisco, CA, 94103",Cruise,Chevrolet Bolt 2020,1,9:59,Clear,Dry,Daylight,No,stopped,,moving,minor,av made safety decision cause bike to hit it,,broadside,av 
+1/7/20,"Nita Ave and San Antonio Rd, Palo Alto, Santa Clara, CA, 94306",Waymo,Chrysler Pacifica 2017,1,10:05,Clear,Dry,Daylight,No,stopped,,moving,minor,human unable to react/anticipate av,,rear-end,non av
+1/29/20,"1170 Columbus Ave, San Francisco, San Francisco, CA, 94133",Cruise,Chevrolet Bolt 2020,1,10:10,Clear,Dry,Daylight,No,moving,,moving,none,human unable to react/anticipate av,,rear-end,non av
+8/7/19,"24th St and Noe St, San Francisco, San Francisco, CA, 94114",Cruise,Chevrolet Bolt 2020,1,10:23,Clear,Dry,Daylight,No,stopped,,moving,moderate,human error,,rear-end,non av
+10/26/16,"El Camino Real, Mountain View, Santa Clara, CA, 94043",Waymo,Google 2015,1,10:27,,,,,moving,,moving,minor,human unable to react/anticipate av,,rear-end,non av
+12/19/19,"Post St and Leavenworth St, San Francisco, San Francisco, CA, 94109",Cruise,Chevrolet Bolt 2020,1,10:27,Clear,Dry,Daylight,No,moving,,moving,minor,human unable to react/anticipate av,,rear-end,non av
+10/18/19,"Alma St and Oregon Expwy, Palo Alto, Santa Clara, CA, 94301",Waymo,Chrysler Pacifica 2017,1,10:30,Clear,Dry,Daylight,No,stopped,,moving,minor,human unable to react/anticipate av,,rear-end,non av
+12/3/18,"View St and California St, Mountain View, Santa Clara, CA, 94041",Waymo,Chrysler Pacifica 2017,1,10:34,Clear,Dry,Daylight,No,stopped,,moving,none,av made an error hit bicyclist,,broadside,av 
+3/23/17,"Broadway, San Francisco, San Francisco, CA, 94103",Cruise,Chevrolet Bolt 2017,1,10:36,,,,,stopped,,moving,minor,human made aggressive move clipped av,,sideswipe,non av
+9/2/16,"Phyllis and Grant, Mountain View, Santa Clara, CA, 94040",Waymo,Google 2015,1,10:41,,,,,stopped,,moving,moderate,human unable to react/anticipate av,,rear-end,non av
+11/29/19,"Embarcadero St and Washington St, San Francisco, San Francisco, CA, 94105",Cruise,Chevrolet Bolt 2020,1,10:41,Clear,Dry,Daylight,No,moving,,moving,moderate,human unable to react/anticipate av,,rear-end,non av
+10/28/19,"Castro St and Central Expwy, Mountain View, Santa Clara, CA, 94041",Waymo,Chrysler Pacifica 2017,1,10:47,Clear,Dry,Daylight,No,stopped,,moving,minor,human unable to react/anticipate av,,rear-end,non av
+5/22/18,"Borregas Ave and Caribbean Dr, Sunnyvale, Santa Clara, CA, 94089",Jingchi,Lincoln 2017,1,10:50,Cloudy,Dry,Daylight,No,stopped,,moving,minor,human unable to react/anticipate av,,rear-end,non av
+7/6/17,"19th St and Shotwell St, San Francisco, San Francisco, CA, 94110",Cruise,Chevrolet Bolt 2017,1,10:54,,,,,moving,,moving,minor,human made aggressive move clipped av,,sideswipe,non av
+7/1/19,"Grant St and Clay St, San Francisco, San Francisco, CA, 94108",Cruise,Chevrolet Bolt 2020,1,10:58,Clear,Dry,Daylight,No,stopped,,moving,minor,human unable to react/anticipate av,,rear-end,non av
+10/26/19,"The Embarcadero and Battery St, San Francisco, San Francisco, CA, 94111",Cruise,Chevrolet Bolt 2020,1,11:05,Clear,Dry,Daylight,No,moving,,moving,minor,human unable to react/anticipate av,,rear-end,non av
+1/21/20,"Broadway St and Powell St, San Francisco, San Francisco, CA, 94133",Zoox,Toyota Highlander 2016,1,11:08,Clear,Dry,Daylight,No,moving,,stopped,minor,,,rear-end,av 
+1/8/18,"Kansas St and Mariposa St, San Francisco, San Francisco, CA, 94107",Cruise,Chevrolet Bolt 2017,1,11:12,,,,,moving,,moving,minor,human made aggressive move clipped av,,sideswipe,non av
+6/18/15,"California Ave and Bryant St, Mountain View, Santa Clara CA, 94040",Waymo,Lexus 2013,1,11:15,,,,,stopped,,moving,minor,human error,,rear-end,non av
+11/15/18,"Fulton St and Baker St, San Francisco, San Francisco, CA, 94117",Cruise,Chevrolet Bolt 2019,1,11:16,Clear,Dry,Daylight,No,stopped,,moving,moderate,human unable to react/anticipate av,,rear-end,non av
+1/10/19,"Van Ness Ave and 12th St, San Francisco, San Francisco, CA, 94103",Cruise,Chevrolet Bolt 2019,1,11:19,Clear,Dry,Daylight,No,moving,,moving,minor,human error,,rear-end,non av
+11/7/18,"Alma St and Oregon Expwy, Palo Alto, Santa Clara, CA, 94301",Waymo,Chrysler Pacifica 2017,1,11:30,Clear,Dry,Daylight,No,stopped,,moving,minor,human unable to react/anticipate av,,rear-end,non av
+6/16/19,"Alma St and Oregon Expwy, Palo Alto, Santa Clara, CA, 94301",Waymo,Chrysler Pacifica 2017,1,11:30,Clear,Dry,Daylight,No,stopped,,moving,minor,human unable to react/anticipate av,,rear-end,non av
+12/11/16,"El Camino Real and Rengstroff, Mountain View, Santa Clara, CA, 94040",Waymo,Lexus 2012,1,11:36,,,,,moving,,moving,moderate,human unable to react/anticipate av,,sideswipe,non av
+6/28/17,"Montgomery St and Post St,  San Francisco, San Francisco, CA, 94104",Cruise,Chevrolet Bolt 2017,1,11:48,,,,,moving,,moving,none,human unable to react/anticipate av,,rear-end,non av
+5/30/15,"720 Shoreline Blvd, Mountain View, Santa Clara, CA, 94041",Waymo,Lexus 2015,1,12:00,,,,,stopped,,moving,minor,human unable to react/anticipate av,,rear-end,non av
+6/23/19,"Divisadero St and Fell St, San Francisco, San Francisco, CA, 94117",Cruise,Chevrolet Bolt 2020,1,12:03,Clear,Dry,Daylight,No,moving,,moving,minor,human unable to react/anticipate av,,rear-end,non av
+10/11/19,"Union St and Grant St, San Francisco, San Francisco, CA, 94133",Zoox,Toyota Highlander 2016,1,12:10,Clear,Dry,Daylight,No,stopped,,moving,none,human unable to react/anticipate av,,rear-end,non av
+4/6/18,"Grant Rd and Covington Rd, Mountain View, Santa Clara, CA, 94040",Waymo,Chrysler Pacifica 2017,1,12:17,Clear,Dry,Daylight,No,stopped,,moving,minor,human error,,rear-end,non av
+9/18/18,"100 Mayfield Ave, Mountain View, Santa Clara, CA, 94043",Waymo,Chrysler Pacifica 2017,1,12:21,Clear,Dry,Daylight,No,moving,,moving,minor,human unable to react/anticipate av,,rear-end,non av
+3/27/18,"Ninth St and Howard St, San Francisco, San Francisco, CA, 94103",Cruise,Chevrolet Bolt 2017,1,12:53,,,,,moving,,moving,minor,human made aggressive move clipped av,,sideswipe,non av
+3/24/18,"Francisco St and Divisadero, San Francisco, San Francisco, CA, 94123",Cruise,Chevrolet Bolt 2017,1,12:55,,,,,moving,,moving,minor,human error,,rear-end,non av
+10/10/19,"Rengstroff Ave and Central Expwy, Mountain View, Santa Clara, CA, 94043",Waymo,Chrysler Pacifica 2017,1,12:58,Clear,Dry,Daylight,No,stopped,,moving,minor,human unable to react/anticipate av,,rear-end,non av
+6/22/18,"El Camino Del Mar and Land's End Trail,San Francisco, San Francisco, CA, 49121",Cruise,Chevrolet Bolt 2017,1,13:05,Clear,Dry,Daylight,No,moving,,N/A,minor,golf ball hits car,,other,non av
+8/22/19,"Geary Blvd and 32nd St, San Francisco, San Francisco, CA, 94121",Cruise,Chevrolet Bolt 2020,1,13:13,Clear,Dry,Daylight,No,moving,,moving,minor,human error,,rear-end,non av
+10/12/19,"Spear St and Howard St, San Francisco, San Francisco, CA, 94105",Cruise,Chevrolet Bolt 2020,1,13:23,Clear,Dry,Daylight,Construction Zone,moving,,moving,minor,human unable to react/anticipate av,,rear-end,non av
+3/22/17,"10th and Division, San Francisco, San Francisco, CA, 94103",Cruise,Chevrolet Bolt 2017,1,13:30,,,,,moving,,moving,minor,human unable to react/anticipate av,,rear-end,non av
+10/16/17,"15th St and Harrison St, San Francisco, San Francisco, CA, 94103",Cruise,Nissan Leaf 2012,1,13:34,,,,,moving,,moving,minor,human made aggressive move clipped av,,sideswipe,non av
+8/24/18,"San Antonio Rd, Palo Alto, Santa Clara, CA, 94303",Waymo,Chrysler Pacifica 2017,1,13:55,Clear,Dry,Daylight,No,stopped,,moving,moderate,human unable to react/anticipate av,,rear-end,non av
+10/12/19,"Polk St and Green St, San Francisco, San Francisco, CA, 94109",Zoox,Toyota Highlander 2016,1,14:00,Clear,Dry,Daylight,No,stopped,,moving,none,human unable to react/anticipate av,,rear-end,non av
+9/14/19,"4800 El Camino Real, Los Altos, Santa Clara, CA, 94022",Waymo,Chrysler Pacifica 2017,1,14:12,Clear,Dry,Daylight,No,stopped,,moving,minor,human error,,broadside,non av
+8/6/18,"Middlefield Rd and Bryson Ave, Palo Alto, Santa Clara, CA, 94306",Waymo,Chrysler Pacifica 2017,1,14:25,Clear,Dry,Daylight,No,stopped,,moving,minor,human unable to react/anticipate av,,rear-end,non av
+11/2/15,"Clark Ave and El Camino Real,  Mountain View, Santa Clara, CA, 94040",Waymo,Lexus 2012,1,14:30,,,,,stopped,,moving,minor,human unable to react/anticipate av,,rear-end,non av
+10/24/18,"Shoreline Blvd and El Camino Real, Mountain View, Santa Clara, CA, 94040",Waymo,Chrysler Pacifica 2017,1,14:31,Clear,Dry,Daylight,No,stopped,,moving,moderate,human unable to react/anticipate av,,rear-end,non av
+7/26/18,"Central Expwy and Shoreline Blvd, Mountain View, Santa Clara, CA, 94043",Waymo,Chrysler Pacifica 2017,1,14:47,Clear,Dry,Daylight,No,moving,,moving,minor,human unable to react/anticipate av,,rear-end,non av
+6/29/18,"Mission St and 17th St, San Francisco, San Francisco, CA, 94110",Cruise,Chevrolet Bolt 2017,1,14:52,Clear,Dry,Daylight,No,moving,,moving,moderate,human unable to react/anticipate av,,rear-end,non av
+7/20/18,"Geary Blvd and 42nd St, San Francisco, San Francisco, CA, 94121",Cruise,Chevrolet Bolt 2017,1,14:56,Clear,Dry,Daylight,No,stopped,,moving,minor,human unable to react/anticipate av,,rear-end,non av
+8/24/18,"Kifer Rd and Lawrence Expressway, Sunnyvale, Santa Clara, CA, 94086",Apple,Lexus 2016,1,14:58,Clear,Dry,Daylight,No,moving,,moving,moderate,human unable to react/anticipate av,,rear-end,non av
+7/17/19,"Fell St and Fillmore St, San Francisco, San Francisco, CA, 94117",Cruise,Chevrolet Bolt 2020,1,15:02,Clear,Dry,Daylight,No,moving,,moving,moderate,human unable to react/anticipate av,,rear-end,non av
+7/8/19,"Escuela Ave and El Camino Real, Mountain View, Santa Clara, CA, 94040",Waymo,Chrysler Pacifica 2017,1,15:10,Clear,Dry,Daylight,No,stopped,,moving,minor,human made aggressive move clipped av,,sideswipe,non av
+3/14/18,"McAllister St and Polk St, San Francisco, San Francisco, CA, 94102",Cruise,Chevrolet Bolt 2017,1,15:12,,,,,moving,,moving,minor,human made aggressive move clipped av,,sideswipe,non av
+7/31/18,"10th St and Bryant St, San Francisco, San Francisco, CA, 94103",Cruise,Chevrolet Bolt 2017,1,15:15,Clear,Dry,Daylight,No,stopped,,moving,minor,human made aggressive move clipped av,,sideswipe,non av
+9/18/17,"Bay St and Columbus Ave, San Francisco, San Francisco, CA, 94133",Cruise,Chevrolet Bolt 2017,1,15:20,,,,,moving,,moving,minor,human unable to react/anticipate av,,rear-end,non av
+11/28/18,"San Antonio Rd and Central Expwy, Palo Alto, Santa Clara, CA, 94306",Waymo,Chrysler Pacifica 2017,1,15:25,Cloudy,Dry,Daylight,No,stopped,,moving,minor,human unable to react/anticipate av,,rear-end,non av
+7/15/16,"Cuestra Dr and Springer Rd, Los Altos, Santa Clara, CA, 94024",Waymo,Google 2015,1,15:26,,,,,stopped,,moving,minor,human unable to react/anticipate av,,rear-end,non av
+5/25/18,"100 Mayfield Ave, Mountain View, Santa Clara, CA, 94043",Waymo,Chrysler Pacifica 2017,1,15:51,Cloudy,Dry,Daylight,No,stopped,,moving,minor,human error,,parking,non av
+7/19/18,"West Middlefield Rd, Mountain View, Santa Clara, CA, 94041",Waymo,Chrysler Pacifica 2017,1,16:03,Clear,Dry,Daylight,No,stopped,,moving,minor,human unable to react/anticipate av,,rear-end,non av
+10/18/17,"17th St and Folsom St, San Francisco, San Francisco, CA, 94110",Cruise,Chevrolet Bolt 2017,1,16:06,,,,,stopped,,moving,minor,human unable to react/anticipate av,,rear-end,non av
+5/29/19,"San Antonio Rd and Charleston Rd, Palo Alto, Santa Clara, CA, 94303",Waymo,Chrysler Pacifica 2017,1,16:07,Clear,Dry,Daylight,No,stopped,,moving,minor,human error,,rear-end,non av
+9/9/19,"Geary Blvd and Palm Ave, San Francisco, San Francisco, CA, 94118",Cruise,Chevrolet Bolt 2020,1,16:24,Clear,Dry,Daylight,No,stopped,,moving,none,human unable to react/anticipate av,,rear-end,non av
+4/27/15,"California St and Shoreline Blvd, Mountain View, Santa Clara, CA, 94043",Waymo,Lexus 2015,1,16:27,,,,,stopped,,moving,none,human made aggressive move clipped av,,sideswipe,non av
+11/14/18,"Alma St and Oregon Expwy, Palo Alto, Santa Clara, CA, 94301",Waymo,Chrysler Pacifica 2017,1,16:30,Cloudy,Dry,Dusk,No,stopped,,moving,minor,human unable to react/anticipate av,,rear-end,non av
+5/4/19,"Larkin St and McAllister St, San Francisco, San Francisco, CA, 94102",Cruise,Chevrolet Bolt 2019,1,16:39,Clear,Dry,Dark-Street lights,No,moving,,moving,minor,human unable to react/anticipate av,,rear-end,non av
+10/3/19,"10th St and Bryant St, San Francisco, San Francisco, CA, 94103",Cruise,Chevrolet Bolt 2020,1,16:40,Clear,Dry,Daylight,No,stopped,,moving,none,human unable to react/anticipate av,,rear-end,non av
+6/13/19,"Divisadero St and Bush St, San Francisco, San Francisco, CA, 94115",Cruise,Chevrolet Bolt 2019,1,16:47,Clear,Dry,Daylight,No,moving,,moving,minor,human error,,rear-end,non av
+3/26/17,"Shoreline Blvd and El Camino Real, Mountain View, Santa Clara, CA, 94043",Waymo,Lexus 2012,1,16:50,,,,,moving,,moving,none,human error,,rear-end,non av
+4/10/19,"Lyon St and California St, San Francisco, San Francisco, CA, 94115",Cruise,Chevrolet Bolt 2019,1,16:52,Clear,Dry,Daylight,No,moving,,moving,minor,human unable to react/anticipate av,,rear-end,non av
+2/20/18,"North Point St and The Embarcadero, San Francisco, San Francisco, CA, 94133",Cruise,Chevrolet Bolt 2017,1,16:58,,,,,moving,,moving,moderate,human made aggressive move clipped av,,sideswipe,non av
+9/24/18,"North Rengstroff Ave, Mountain View, Santa Clara, CA, 94043",Waymo,Chrysler Pacifica 2017,1,16:58,Clear,Dry,Daylight,No,stopped,,moving,minor,human unable to react/anticipate av,,rear-end,non av
+7/1/15,"Grant Rd, Mountain View, Santa Clara, CA, 94043",Waymo,Lexus 2012,1,17:16,,,,,stopped,,moving,significant,human unable to react/anticipate av,,rear-end,non av
+5/22/19,"Whisman Station Dr and S Whisman Rd, Mountain View, Santa Clara, CA, 94043",Waymo,Chrysler Pacifica 2017,1,17:23,Cloudy,Dry,Daylight,No,stopped,,moving,minor,human unable to react/anticipate av,,rear-end,non av
+5/25/17,"11th St and Mission St, San Francisco, San Francisco, CA, 94103",Cruise,Chevrolet Bolt 2017,1,17:26,,,,,moving,,moving,minor,av made safety deciosion cause bike to hit it,,broadside,unclear
+4/28/16,"Nita Ave and San Antonio Rd, Palo Alto, Santa Clara, CA, 94306",Waymo,Google 2015,1,17:35,,,,,stopped,,moving,minor,human unable to react/anticipate av,,rear-end,non av
+10/17/17,"1640 Mission St, San Francisco, San Francisco, CA, 94103",Cruise,Chevrolet Bolt 2017,1,17:41,,,,,stopped,,moving,minor,human unable to react/anticipate av,,rear-end,non av
+1/31/20,"22 Castro St, San Francisco, San Francisco, CA, 94114",Cruise,Chevrolet Bolt 2020,1,17:47,Clear,Dry,Daylight,No,moving,,moving,none,human unable to react/anticipate av,,rear-end,non av
+2/14/20,"Miramonte Ave & Park Dr, Mountain View, Santa Clara, CA, 94040",Waymo,Chrysler Pacifica 2017,1,17:52,Clear,Dry,Dusk,No,stopped,,moving,minor,human unable to react/anticipate av,,rear-end,non av
+7/9/18,"Middlefield Rd and Oregon Expwy, Palo Alto, Santa Clara, CA, 94303",Waymo,Chrysler Pacifica 2017,1,17:52,Clear,Dry,Daylight,No,stopped,,moving,minor,human unable to react/anticipate av,,rear-end,non av
+9/19/17,"Division St and 10th St, San Francisco, San Francisco, CA, 94103",Cruise,Chevrolet Bolt 2017,1,18:20,,,,,stopped,,moving,none,human error,,rear-end,non av
+9/7/16,"Nita Ave and San Antonio Rd, Palo Alto, Santa Clara, CA, 94306",Waymo,Google 2015,1,18:47,,,,,moving,,moving,minor,human unable to react/anticipate av,,rear-end,non av
+8/16/18,"3rd St and 22nd St, San Francisco, San Francisco, CA, 94107",Cruise,Chevrolet Bolt 2017,1,18:52,Clear,Dry,Daylight,No,moving,,moving,minor,human error,,sideswipe,non av
+11/25/19,"California St and Hyde St, San Francisco, San Francisco, CA, 94109",Cruise,Chevrolet Bolt 2020,1,19:00,Clear,Dry,Dark-Street lights,No,stopped,,moving,minor,human unable to react/anticipate av,,rear-end,non av
+9/14/18,"Villa St and Shoreline Blvd, Mountain View, Santa Clara, CA, 94041",Waymo,Chrysler Pacifica 2017,1,19:03,Clear,Dry,Daylight,No,stopped,,moving,minor,human unable to react/anticipate av,,rear-end,non av
+5/18/19,"Euclid Ave and Palm Ave, San Francisco, San Francisco, CA, 94118",Cruise,Chevrolet Bolt 2019,1,19:31,Cloudy,Wet,Dusk,No,moving,,moving,none,human unable to react/anticipate av,,rear-end,non av
+5/24/19,"Geary Blvd and 8th St, San Francisco, San Francisco, CA, 94118",Cruise,Chevrolet Bolt 2019,1,19:36,Clear,Dry,Daylight,No,moving,,moving,moderate,human unable to react/anticipate av,,rear-end,non av
+10/29/19,"Beach St and The Embarcadero, San Francisco, San Francisco, CA, 94133",Cruise,Chevrolet Bolt 2020,1,19:52,Clear,Dry,Dark-Street lights,No,moving,,moving,none,human unable to react/anticipate av,,rear-end,non av
+6/3/18,"Hyde St and Washington St, San Francisco, San Francisco, CA, 94109",Cruise,Chevrolet Bolt 2017,1,20:29,Clear,Dry,Dusk,No,stopped,,moving,moderate,human unable to react/anticipate av,,rear-end,non av
+3/19/18,"Howard St and Hawthorne St, San Francisco, San Francisco, CA, 94105",Cruise,Chevrolet Bolt 2017,1,20:34,,,,,moving,,moving,minor,human error,,rear-end,non av
+11/7/19,"King St and 2nd St, San Francisco, San Francisco, CA, 94107",Cruise,Chevrolet Bolt 2020,1,20:35,Clear,Dry,Dark-Street lights,No,moving,,moving,minor,human unable to react/anticipate av,,rear-end,non av
+7/20/19,"Mission St and 2nd St, San Francisco, San Francisco, CA, 94105",Cruise,Chevrolet Bolt 2020,1,20:58,Clear,Dry,Dark-Street lights,No,moving,,moving,moderate,human unable to react/anticipate av,,rear-end,non av
+10/14/19,"Cuestra Dr and S San Antonio Rd, Los Altos, Santa Clara, CA, 94022",Waymo,Chrysler Pacifica 2017,1,21:03,Clear,Dry,Dark-Street lights,No,stopped,,moving,minor,human unable to react/anticipate av,,rear-end,non av
+6/20/19,"Bush St and Octavia St, San Francisco, San Francisco, CA, 94109",Cruise,Chevrolet Bolt 2020,1,21:03,Clear,Dry,Dark-Street lights,No,moving,,moving,moderate,human unable to react/anticipate av,,rear-end,non av
+10/15/18,"Shoreline Blvd and El Camino Real, Mountain View, Santa Clara, CA, 94040",Waymo,Chrysler Pacifica 2017,1,21:07,Clear,Dry,Dark-Street lights,No,stopped,,moving,minor,human unable to react/anticipate av,,rear-end,non av
+9/21/17,"5th St and Bryant St, San Francisco, San Francisco, CA, 94107",Cruise,Chevrolet Bolt 2017,1,21:09,,,,,moving,,moving,minor,human error,,rear-end,non av
+10/26/17,"5th St and Market St, San Francisco, San Francisco, CA, 94102",Cruise,Chevrolet Bolt 2017,1,21:09,,,,,stopped,,moving,minor,human unable to react/anticipate av,,rear-end,non av
+8/26/19,"Division St and Bryant St, San Francisco, San Francisco, CA, 94103",Cruise,Chevrolet Bolt 2020,1,21:14,Clear,Dry,Dark-Street lights,No,moving,,moving,none,human unable to react/anticipate av,,rear-end,non av
+2/9/20,"Sickles Ave and Mission St, San Francisco, San Franciso, CA, 94112",Cruise,Chevrolet Bolt 2020,1,21:16,Clear,Dry,Dark-street lights,No,moving,,moving,moderate,human unable to react/anticipate av,,rear-end,non av
+11/6/18,"Steiner St and Haight St, San Francisco, San Francisco, CA, 94117",Cruise,Chevrolet Bolt 2019,1,21:16,Clear,Dry,Dark-Street lights,No,moving,,moving,minor,biker hits car,,broadside,non av
+1/2/18,Valencia St and 16th St,Cruise,Chevrolet Bolt 2016,1,21:27,,,,,moving,,N/A,minor,pedestrian ran into av,,other,non av
+6/27/19,"Bryant St and 10th St, San Francisco, San Francisco, CA, 94103",Cruise,Chevrolet Bolt 2019,1,21:50,Clear,Dry,Dark-Street lights,No,moving,,moving,minor,human unable to react/anticipate av,,rear-end,non av
+7/10/19,"10th St and Market St, San Francisco, San Francisco, CA, 94102",Cruise,Chevrolet Bolt 2020,1,21:59,Clear,Dry,Dark-Street lights,No,moving,,moving,minor,human error,,rear-end,non av
+11/20/18,"Stockton St and Lombardi St, San Francisco, San Francisco, CA, 94133",Zoox,Toyota Highlander 2016,1,22:04,Clear,Dry,Dark-Street lights,No,stopped,,moving,none,human unable to react/anticipate av,,rear-end,non av
+11/13/17,"11 St and Folsom St, San Francisco, San Francisco, CA, 94103",Cruise,Chevrolet Bolt 2017,1,22:07,,,,,moving,,moving,minor,human error,,rear-end,non av
+5/4/19,"Steiner St and Duboce Ave, San Francisco, San Francisco, CA, 94114",Cruise,Chevrolet Bolt 2019,1,22:56,Clear,Dry,Dark-Street lights,No,moving,,moving,minor,human error,,broadside,non av
+5/2/19,"24th St and Potrero Ave, San Francisco, San Francisco, CA, 94110",Cruise,Chevrolet Bolt 2019,1,23:01,Clear,Dry,Dark-Street lights,No,stopped,,moving,none,human error,,rear-end,non av
+8/10/19,"14th St and Noe St, San Francisco, San Francisco, CA, 94114",Cruise,Chevrolet Bolt 2020,1,23:39,Clear,Dry,Dark-Street lights,No,stopped,,moving,minor,human unable to react/anticipate av,,broadside,non av
+6/29/19,"Market St and Duboce Ave, San Francisco, San Francisco, CA, 94103",Cruise,Chevrolet Bolt 2020,1,23:49,Clear,Dry,Dark-Street lights,No,moving,,moving,minor,human error,,rear-end,non av
+1/8/16,"El Camino Real and Castro St, Mountain View, Santa Clara, CA, 94040",Waymo,Lexus  2011,1,,,,,,moving,,moving,minor,human unable to react/anticipate av,,rear-end,non av
+2/14/16,"El Camino Real and Castro St, Mountain View, Santa Clara, CA, 94043",Waymo,Lexus 2012,1,,,,,,moving,,moving,moderate,av fault thought bus would anticipate,,sideswipe,av 
+4/7/16,"Bryant St and Oregon Expwy, Palo Alto, Santa Clara, CA, 94301",Waymo,Lexus 2012,1,,,,,,stopped,,moving,none,,,sideswipe,non av
+8/16/16,"Phyllis and Grant, Mountain View, Santa Clara, CA, 94040",Waymo,Google 2015,1,,,,,,stopped,,moving,moderate,human unable to react/anticipate av,,rear-end,non av
+6/7/17,"Van Ness Ave and O'Farell St, San Francisco, San Francisco, CA, 94109",Cruise,Chevrolet Bolt 2017,1,,,,,,moving,,moving,none,human unable to react/anticipate av,,rear-end,non av
+6/26/19,"Pine St and Cameron Hills Dr, Fremont, Alameda, CA, 94539",Pony AI,Lincoln 2018,1,,,,,,moving,,moving,minor,human made aggressive move clipped av,,sideswipe,non av
+5/13/19,"Fell St and Fillmore St, San Francisco, San Francisco, CA, 94117",Cruise,Chevrolet Bolt 2019,0,0:32,Clear,Dry,Dark-Street lights,No,moving,,moving,moderate,human didn’t trust av made wrong correction,,broadside,non av
+11/10/19,"1499 Vallejo St, San Francisco, San Francisco, CA, 94109",Cruise,Chevrolet Bolt 2020,0,0:55,Clear,Dry,Dark-Street lights,No,stopped,,moving,moderate,,,sideswipe,
+4/14/19,"36th Ave and Balboa St, San Francisco, San Francisco, CA, 94121",Cruise,Chevrolet Bolt 2019,0,4:38,Clear,Dry,Dark-Street lights,No,moving,,stopped,moderate,human error,,sideswipe,
+7/21/19,"Jackson St and Stockton St, San Francisco, San Francisco, CA, 94133",Cruise,Chevrolet Bolt 2020,0,6:20,Clear,Dry,Daylight,No,moving,,stopped,minor,,,parking,
+10/19/18,"El Camino Real and Calderon Ave, Moutain View, Santa Clara, CA, 94041",Waymo,Chrysler Pacifica 2017,0,7:16,Clear,Dry,Daylight,No,moving,,moving,minor,human didn’t trust av made wrong correction,,sideswipe,
+6/13/18,"Highway 85, Mountain View, Santa Clara, CA, 94041",Waymo,Chrysler Pacifica 2017,0,7:31,Clear,Dry,Daylight,No,stopped,,N/A,moderate,human error,,other,
+12/13/19,"Bryant St and Delancey St, San Francisco, San Francisco, CA, 94107",Cruise,Chevrolet Bolt 2020,0,7:55,Clear,Dry,Daylight,No,moving,,moving,minor,,,parking,
+9/19/19,"Sunnyvale Community Center Park, Sunnyvale, Santa Clara, CA, 94087",Apple,Lexus 2017,0,7:58,Clear,Dry,Daylight,No,stopped,,moving,minor,,,head-on,
+1/25/20,"4307 24th St, San Francisco, San Frnacisco, CA, 94114",Cruise,Chevrolet Bolt 2020,0,8:10,Clear,Dry,Daylight,No,moving,,stopped,none,human error,,parking,
+1/2/20,"Clement St and 24th Ave, San Francisco, San Francisco, CA, 94121",Cruise,Chevrolet Bolt 2020,0,8:24,Clear,Dry,Daylight,No,stopped,,moving,minor,human error,,parking,
+3/6/19,"Alma Rd and Charleston Rd, Palo Alto, Santa Clara, CA, 94306",Lyft,Ford Fusion 2018,0,8:24,Raining,Wet,Daylight,No,moving,,stopped,minor,,,rear-end,
+8/26/17,"Alma St and El Verano Ave, Palo Alto, Santa Clara, CA, 94306",Waymo,Chrysler Pacifica 2017,0,8:39,,,,,moving,,moving,minor,human didn’t trust av made wrong correction,,sideswipe,
+1/21/20,"3rd St and Mission St, San Francisco, San Francisco, CA, 94103",Zoox,Toyota Highlander 2016,0,8:44,Clear,Dry,Daylight,No,moving,,moving,minor,human error,,rear-end,
+2/16/18,"14th St and Valencia St, San Francisco, San Francisco, CA, 94103",Cruise,Chevrolet Bolt 2017,0,8:45,,,,,moving,,stopped,minor,human error,,sideswipe,
+2/5/20,"901 Jones St, San Francisco, San Francisco, CA,  94109",Cruise,Chevrolet Bolt 2020,0,8:57,Clear,Dry,Daylight,No,stopped,,moving,none,,,rear-end,
+12/20/19,"Kearny St and Jackson St, San Francisco, San Francisco, CA, 94108",Zoox,Toyota Highlander 2016,0,9:00,Cloudy,Dry,Daylight,No,moving,,moving,moderate,,,sideswipe,
+7/21/19,"Market St and Duboce Ave, San Francisco, San Francisco, CA, 94114",Cruise,Chevrolet Bolt 2020,0,9:01,Clear,Dry,Daylight,No,moving,,moving,none,,,broadside,
+3/26/19,"E Charleston Rd and San Antonio Rd, Palo Alto, Santa Clara, CA, 94303",Waymo,Chrysler Pacifica 2017,0,9:09,Clear,Wet,Daylight,No,moving,,moving,minor,,,rear-end,
+1/8/20,"Green St and Grant St, San Francisco, San Francisco, CA, 94133",Zoox,Toyota Highlander 2016,0,9:10,Clear,Dry,Daylight,No,stopped,,moving,moderate,human error,,parking,
+12/20/19,"Whisman Station Dr and Central Expway, Mountain View, Santa Clara, CA, 94043",Waymo,Chrysler Pacifica 2017,0,9:13,Clear,Dry,Daylight,No,stopped,,moving,minor,,,rear-end,
+12/11/18,"Alma St and El Verano Ave, Palo Alto, Santa Clara, CA, 94306",Waymo,Chrysler Pacifica 2017,0,9:18,Fog,Dry,Daylight,Reduced width,moving,,N/A,minor,human error strikes median,,other,
+9/24/18,"Broadway and The Embarcadero, San Francisco, San Francisco, CA, 94111",Zoox,Toyota Highlander 2016,0,9:18,Clear,Dry,Daylight,No,stopped,,moving,none,human error,,rear-end,
+11/14/18,"Rengstroff Ave and Charleston Rd, Mountain View, Santa Clara, CA, 94043",Waymo,Chrysler Pacifica 2017,0,9:20,Cloudy,Dry,Daylight,No,moving,,N/A,minor,human error strikes median,,other,
+10/19/19,"3191 Middlefield Rd, Palo Alto, Santa Clara, CA, 94306",Waymo,Chrysler Pacifica 2017,0,9:40,Clear,Dry,Daylight,No,stopped,,moving,minor,,,parking,
+12/19/19,"Kearny St and Post St, San Francisco, San Francisco, CA, 94108",Zoox,Toyota Highlander 2016,0,9:45,Cloudy,Dry,Daylight,No,moving,,moving,moderate,,,sideswipe,
+11/18/19,"13th St and Bryant St, San Francisco, San Francisco, CA, 94103",Cruise,Chevrolet Bolt 2020,0,9:45,Clear,Dry,Daylight,No,moving,,moving,minor,,,rear-end,
+11/24/18,"Pine St and Battery St, San Francisco, San Francisco, CA, 94104",Cruise,Chevrolet Bolt 2019,0,9:48,Clear,Dry,Daylight,No,moving,,moving,moderate,human error,,broadside,
+9/16/19,"101 US Freeway, Mountain View, Santa Clara, CA, 94043",AI Motive,Toyota Prius 2010,0,10:00,Clear,Wet,Daylight,No,stopped,,moving,minor,,,rear-end,
+10/15/18,"North Wolfe Rd and Stewart Dr, Sunnyvale, Santa Clara, CA, 94085",Apple,Lexus 2017,0,10:28,Clear,Dry,Daylight,No,moving,,moving,minor,human error,,sideswipe,
+4/10/19,"Franklin St and Olive St, San Francisco, San Francisco, CA, 94109",Cruise,Chevrolet Bolt 2019,0,10:38,Clear,Dry,Daylight,No,moving,,moving,minor,human didn’t trust av made wrong correction,,sideswipe,
+5/11/17,"Wisconsin St and Coral Rd, San Francisco, San Francsico, CA, 94107",UATC,Volvo 2017,0,10:50,Clear,Dry,Daylight,No,stopped,,moving,minor,,,rear-end,
+3/29/18,"Powell St and Vallejo St, San Francisco, San Francisco, CA, 94133",Cruise,Chevrolet Bolt 2017,0,11:04,,,,,moving,,moving,minor,human lost control clipped av,,sideswipe,
+9/12/17,"Folsom St and 11th St, San Francisco, San Francisco, CA, 94103",Cruise,Chevrolet Bolt 2016,0,11:10,,,,,stopped,,moving,minor,drunk biker hits car,,other,
+1/14/20,"Lafayette St and Benton St, Santa Clara, Santa Clara, CA, 95050",Aurora,Lincoln 2017,0,11:13,Clear,Dry,Daylight,No,stopped,,moving,none,human error,,rear-end,
+6/11/19,"Grant Ave and Union St, San Francisco, San Francisco, CA, 94133",Zoox,Toyota Highlander 2016,0,11:16,Clear,Dry,Daylight,No,moving,,moving,none,,,head-on,
+6/19/19,"Mason St and Sutter St, San Francisco, San Francisco, CA, 94108",Zoox,Toyota Highlander 2016,0,11:18,Cloudy,Dry,Daylight,No,moving,,moving,none,,,head-on,
+1/28/20,"Oro Way and Space Park Way, Mountain View, Santa Clara, CA, 94043",Waymo,Chrysler Pacifica 2017,0,11:30,Cloudy,Dry,Daylight,Reduced width,moving,,N/A,minor,human hits median,,other,
+4/11/19,"Natoma St and 6th St, San Francisco, San Francisco, CA, 94103",Lyft,Ford Fusion 2018,0,11:31,Clear,Dry,Daylight,No,moving,,moving,minor,,,sideswipe,
+4/14/19,"Mason St and Yacht Rd, San Francisco, San Francisco, CA, 94123",Cruise,Chevrolet Bolt 2019,0,11:45,Clear,Dry,Daylight,No,moving,,moving,none,,,broadside,
+9/27/19,"Clay St and Kearny St, San Francisco, San Francisco, CA, 94108",Cruise,Chevrolet Bolt 2020,0,11:49,Clear,Dry,Daylight,No,stopped,,moving,minor,human didn’t trust av made wrong correction,,broadside,
+8/7/18,"I-80 East, Crockett, Contra Costa, CA, 94525",Toyota,Lexus 2016,0,11:50,Clear,Dry,Daylight,No,moving,,moving,major,human made aggressive move clipped av,,sideswipe,
+9/23/16,"Phyllis and El Camino, Mountain View, Santa Clara, CA, 94040",Waymo,Lexus 2012,0,11:58,,,,,moving,,moving,significant,human didn’t trust av made wrong correction,,broadside,
+10/14/18,"Cherry St and California St, San Francisco, San Francisco, CA, 94118",Cruise,Chevrolet Bolt 2019,0,12:28,Clear,Dry,Daylight,No,moving,,stopped,moderate,,,head-on,
+1/12/20,"Clipper St and Portola Dr, San Francisco, San Francisco, CA, 94131",Cruise,Chevrolet Bolt 2020,0,12:40,Clear,Dry,Daylight,No,moving,,N/A,minor,human error strikes median,,other,
+6/12/19,"Folsom St and 12th St, San Francisco, San Francisco, CA, 94103",Cruise,Chevrolet Bolt 2019,0,12:47,Clear,Dry,Daylight,No,moving,,moving,moderate,human didn’t trust av made wrong correction,,sideswipe,
+5/23/18,"Bryant St and 10th St, San Francisco, San Francisco, CA, 94133",Cruise,Chevrolet Bolt 2017,0,12:50,Clear,Dry,Daylight,No,stopped,,moving,moderate,human error,,rear-end,
+5/17/17,"Noe St and 22nd St, San Francisco, San Francisco, CA, 94114",UATC,Volvo 2017,0,12:55,Clear,Dry,Daylight,No,stopped,,moving,minor,,,rear-end,
+11/18/18,"W Evelyn Ave and Castro St, Moutain View, Santa Clara, CA, 94041",Waymo,Chrysler Pacifica 2017,0,12:57,Clear,Dry,Daylight,No,moving,,moving,minor,human error,,rear-end,
+9/9/18,"Divisadero St and Fell St, San Francisco, San Francisco, CA, 94117",Cruise,Chevrolet Bolt 2017,0,13:20,Clear,Dry,Daylight,No,stopped,,moving,minor,human unable to react/anticipate av,,rear-end,
+10/26/18,"Gough St and Fulton St, San Francisco, San Francisco, CA, 94117",Cruise,Chevrolet Bolt 2019,0,13:28,Clear,Dry,Daylight,No,moving,,moving,minor,,,sideswipe,
+1/8/16,"7th St and Bryant St, San Francisco, San Francisco, CA, 94103",Cruise,Nissan Leaf 2012,0,13:41,,,,,moving,,stopped,minor,after taking control of av the driver failed to stop,,rear-end,
+6/20/18,"Page Mill Rd, Palo Alto, Santa Clara, CA, 94306",Aurora,Lincoln 2017,0,13:49,Clear,Dry,Daylight,No,moving,,moving,minor,,,rear-end,
+10/27/19,"15 Marina Blvd, San francisco, San Francisco, CA, 94123",Cruise,Chevrolet Bolt 2020,0,13:50,Clear,Dry,Daylight,No,moving,,moving,minor,,,parking,
+10/27/18,"4th Avenue and Cornwall St, San Francisco, San Francisco, CA, 94118",Cruise,Chevrolet Bolt 2019,0,13:52,Clear,Dry,Daylight,No,moving,,moving,moderate,human error,,broadside,
+11/19/19,"Medical Foundation Dr and El Camino Blvd, Palo Alto, Santa Clara, CA, 94301",Lyft,Ford Fusion 2018,0,14:04,,,,,moving,,moving,moderate,human didn’t trust av made wrong correction,,sideswipe,
+2/28/19,"Shoreline Blvd and Wright Ave, Mountain View, Santa Clara, CA, 94043",Lyft,Ford Fusion 2017,0,14:06,Clear,Dry,Daylight,No,stopped,,moving,minor,,,rear-end,
+8/4/19,"Leavenworth St and Geary St, San Francisco, San Francisco, CA, 94109",Cruise,Chevrolet Bolt 2020,0,14:32,Clear,Dry,Daylight,No,moving,,moving,minor,human didn’t trust av made wrong correction,,rear-end,
+10/28/19,"Howard St and 9th St, San Francisco, San Francisco, CA, 94103",Cruise,Chevrolet Bolt 2020,0,14:42,Clear,Dry,Daylight,No,moving,,moving,none,human didn’t trust av made wrong correction,,broadside,
+1/10/19,"Townsend St and 3rd St, San Francisco, San Francisco, CA, 94107",Aurora,Lincoln 2017,0,14:52,Clear,Dry,Daylight,No,stopped,,moving,moderate,,,rear-end,
+8/16/17,"Geary Blvd and 3rd Ave, San Francisco, San Francisco, CA, 94118",UATC,volvo 2017,0,14:55,,,,,stopped,,moving,minor,,,rear-end,
+5/10/16,"101 Hwy South Bound, Sunnyvale, Santa Clara, CA, 94089",Nissan,Nissan Leaf 2010,0,15:00,,,,,moving,,moving,minor,,,rear-end,
+11/2/18,"101 North, Palo Alto, Santa Clara, CA, 94303",Aurora,Lincoln 2017,0,15:00,Clear,Dry,Daylight,No,moving,,moving,minor,,,rear-end,
+10/12/18,"Mason St and Post St, San Francisco, San Francisco, CA, 94102",Zoox,Toyota Highlander 2016,0,15:04,Clear,Dry,Daylight,No,stopped,,moving,minor,,,rear-end,
+9/14/16,"El Camino Real, Los Altos, Santa Clara, CA, 94022",Waymo,Google 2015,0,15:06,,,,,moving,,moving,moderate,human didn’t trust av made wrong correction,,sideswipe,
+1/26/19,"S Shoreline Blvd & W El Camino Real, Mountain View, Santa Clara, CA, 94041",Waymo,Chrysler Pacifica 2017,0,15:24,Clear,Dry,Daylight,No,stopped,,moving,minor,,,rear-end,
+8/11/18,"Moscow St and France Ave, San Francisco, San Francisco, CA, 94112",Zoox,Toyota Highlander 2017,0,15:38,,,,,moving,,stopped,minor,human error,,rear-end,
+1/14/20,"5th St and Folsom St, San Frnacisco, San Francisco, CA, 94107",Zoox,Toyota Highlander 2016,0,15:46,Cloudy,Dry,Daylight,No,moving,,moving,minor,,,rear-end,
+9/7/18,"Mason St and Eddy St, San Francisco, San Francisco, CA, 94102",Zoox,Toyota Highlander 2016,0,15:47,Clear,Dry,Daylight,No,stopped,,moving,minor,,,sideswipe,
+5/2/19,"San Antonio Rd, Palo Alto, Santa Clara, CA, 94306",Lyft,Ford Fusion 2018,0,15:50,Clear,Dry,Daylight,No,stopped,,moving,minor,,,rear-end,
+3/12/19,"739 Pettis Ave, Mountain View, Santa Clara, CA, 94041",Lyft,Ford Fusion 2018,0,16:05,Clear,Dry,Daylight,No,moving,,stopped,minor,,,parking,
+8/10/18,"Central Expwy and Shoreline Blvd, Mountain View, Santa Clara, CA, 94043",Waymo,Chrysler Pacifica 2017,0,16:07,Clear,Dry,Daylight,No,moving,,moving,minor,human error,,rear-end,
+2/10/19,"El Camino Real and Highway 85, Moutain View, Santa Clara, CA, 94040",Waymo,Chrysler Pacifica 2017,0,16:14,Clear,Dry,Daylight,No,moving,,moving,minor,human didn’t trust av made wrong correction,,sideswipe,
+8/13/19,"Page Mill Rd and Oregon Expwy, Palo Alto, Santa Clara, CA, 94306",Waymo,Chrysler Pacifica 2017,0,16:31,Clear,Dry,Daylight,No,stopped,,moving,minor,,,rear-end,
+7/23/18,"Vicente Dr, Sunnyvale, Santa Clara, CA, 94086",Waymo,Chrysler Pacifica 2017,0,16:42,Clear,Dry,Daylight,No,moving,,stopped,minor,human error,,rear-end,
+7/16/19,"Central Expwy and Thompson Ave, Mountain View, Santa Clara, CA, 94043",Waymo,Chrysler Pacifica 2017,0,16:44,Clear,Dry,Daylight,No,stopped,,moving,minor,,,rear-end,
+9/9/17,"Folsom St and 6th St, San Francisco, San Francisco, CA, 94103",Cruise,Chevrolet Bolt 2016,0,16:47,,,,,moving,,moving,minor,,,rear-end,
+9/22/18,"Bryant St and Mariosa St, San Francisco, San Francisco, CA, 94107",Cruise,Chevrolet Bolt 2019,0,16:48,Clear,Dry,Daylight,No,stopped,,moving,minor,human error,,sideswipe,
+2/12/20,"2042 Midvale Ave, Los Angeles, CA, 90025",Waymo,Chrysler Pacifica 2017,0,16:53,Clear,Dry,Daylight,No,moving,,stopped,minor,,,sideswipe,
+12/27/19,"850 Stanyan St, San Francisco, San Francisco, CA, 94117",Cruise,Chevrolet Bolt 2020,0,16:56,Clear,Dry,Dusk,No,moving,,moving,minor,human didn’t trust av made wrong correction,,sideswipe,
+7/12/19,"California Cir and Dixon Landing Rd, Milpitas, Alameda, CA, 95035",Pony AI,Lincoln 2018,0,17:00,Clear,Dry,Daylight,No,stopped,,moving,minor,human infront had vehicle in reverse,,other,
+9/5/19,"Haight St and Gough St, San Francisco, San Francisco, CA, 94102",Cruise,Chevrolet Bolt 2020,0,17:33,Clear,Dry,Daylight,No,moving,,moving,minor,,,broadside,
+1/13/20,"Mason St and Sutter St, San Francisco, San Francisco, CA, 94108",Zoox,Toyota Highlander 2016,0,18:15,Clear,Dry,Dark-Street lights,No,stopped,,moving,none,,,rear-end,
+11/4/19,"Alma St and Oregon Expwy, Palo Alto, Santa Clara, CA, 94301",Waymo,Chrysler Pacifica 2017,0,18:22,Clear,Dry,Dark-Street lights,No,stopped,,moving,minor,,,rear-end,
+5/25/18,"Jackson St and Jones St, San Francisco, San Francisco, CA, 94109",Cruise,Chevrolet Bolt 2017,0,18:37,Clear,Dry,Daylight,No,moving,,stopped,minor,human error,,parking,
+9/8/18,"McAllister St and Hyde St, San Francisco, San Francisco, CA, 94102",Cruise,Chevrolet Bolt 2017,0,18:50,Clear,Dry,Daylight,No,moving,,moving,moderate,human error,,sideswipe,
+1/7/19,"Folsom St and 11th St, San Francisco, San Francisco, CA, 94103",Cruise,Chevrolet Bolt 2019,0,18:54,Clear,Dry,Dark-Street lights,No,moving,,moving,moderate,,,sideswipe,
+4/19/17,"Middlefield Rd and Oregon Expwy, Palo Alto, Santa Clara, CA, 94301",Waymo,Lexus 2012,0,18:59,,,,,moving,,N/A,minor,human didn’t trust av made wrong correction,,other,
+4/3/19,"Potrero St and Alameda St, San Francisco, San Francisco, CA, 94103",Cruise,Chevrolet Bolt 2019,0,20:32,Clear,Dry,Dark-Street lights,No,stopped,,N/A,minor,pedestrian struck vehicle,,other,
+7/23/19,"Hyde St and Union St, San Francisco, San Francisco, CA, 94109",Zoox,Toyota Highlander 2016,0,20:50,Clear,Dry,Dark-Street lights,No,stopped,,moving,minor,,,sideswipe,
+11/7/19,"24th St and Mission St, San Francisco, San Francisco, CA, 94110",Cruise,Chevrolet Bolt 2020,0,21:10,Clear,Dry,Dark-Street lights,No,moving,,moving,minor,human didn’t trust av made wrong correction,,broadside,
+5/4/16,"Latham St and Chiquita Ave, Mountain View, Santa Clara, CA, 94040",Waymo,Google 2015,0,21:45,,,,,moving,,N/A,minor,human error strikes median,,other,
+11/15/18,"14th St and Van Ness Ave, San Francisco, San Francisco, CA, 94103",Cruise,Chevrolet Bolt 2019,0,22:29,Clear,Dry,Dark-Street lights,No,moving,,moving,moderate,,,rear-end,
+3/24/19,"11th St and Folsom St, San Francisco, San Francisco, CA, 94103",Cruise,Chevrolet Bolt 2019,0,22:50,Clear,Dry,Dark-Street lights,No,moving,,moving,moderate,,,sideswipe,
+1/28/18,Duboce Ave and Mission St,Cruise,Chevrolet Bolt 2017,0,22:55,,,,,stopped,,stopped,none,road rage,,other,
+7/15/19,"14th St and Valencia St, San Francisco, San Francisco, CA, 94103",Cruise,Chevrolet Bolt 2020,0,23:02,Clear,Dry,Dark-Street lights,No,moving,,moving,minor,human didn’t trust av made wrong correction,,sideswipe,
+11/22/19,"5th St and Folsom St, San Frnacisco, San Francisco, CA, 94107",Zoox,Toyota Highlander 2016,0,23:11,Clear,Dry,Dark-Street lights,No,moving,,moving,moderate,police chase,,other,
+9/15/17,"Potrero St and Division St, South San Francisco, San Francisco, CA, 94103",Cruise,Chevrolet Bolt 2017,0,23:20,,,,,moving,,moving,minor,human made aggressive move clipped av,,sideswipe,
+2/26/15,"El Camino Real and View St., Mountain View, Santa Clara, CA, 94040",Waymo,Lexus ,0,,,,,,moving,,moving,none,human error,,broadside,
+8/8/16,"Rengstroff Ave and California St, Mountain View, Santa Clara, CA, 94043",Waymo,Google 2015,0,,,,,,moivng,,moving,minor,,,rear-end,
+9/27/17,"Intersection Green St and Battery St, San Francisco, San Francisco, CA, 94111",Zoox,Toyota Highlander 2016,0,,,,,,moving,,moving,moderate,human error,,broadside,
+1/29/18,"E Reed St and S 2nd St, San Jose, Santa Clara, CA, 95113",Drive AI,Nissan 2016,0,,,,,,moving,,N/A,minor,human error,,other,
